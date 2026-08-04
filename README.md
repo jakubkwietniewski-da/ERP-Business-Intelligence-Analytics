@@ -10,13 +10,14 @@ Professional End-to-End Business Intelligence Portfolio Project
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+</p>
 ---
 
 An end-to-end Business Intelligence project that simulates a realistic ERP environment by combining relational database design, SQL analytics and interactive Power BI dashboards.
 
 ---
 
-## 📖 Project Highlights ⭐
+## 📖 Project Overview
 
 
 This project presents a complete Business Intelligence solution built around a realistic ERP environment.
@@ -76,10 +77,10 @@ This project demonstrates practical experience in:
 ## 🚀 Key Features
 
 - 📊 5 Interactive Dashboard Pages
-- 📈 50+ Business KPIs
+- 📈 16 Business KPIs
 - 🗄 Relational ERP Database
 - 💻 SQL-Based Data Model
-- 📑 100+ SQL Queries
+- 📑 63 SQL Queries
 - 📅 3 Years of Business Data
 - 📦 Finance, Sales, HR & Operations Analytics
 
@@ -173,7 +174,7 @@ The project is based on a normalized ERP database designed specifically for anal
 - Which cost categories have the greatest impact on profitability?
 - What is the trend of receivables and liabilities?
 
-### Sales
+### Revenue & Sales
 
 - Which customers generate the highest revenue?
 - Which products contribute the most to sales?
@@ -259,7 +260,7 @@ ERP-Business-Intelligence-Solution/
 
 **Jakub Kwietniewski**
 
-Aspiring Data Analyst with a background in accounting and business process optimization.
+Data Analyst with a background in accounting and business process optimization.
 
 **Core Skills**
 
