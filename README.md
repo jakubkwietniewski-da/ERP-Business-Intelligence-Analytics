@@ -161,7 +161,7 @@ The solution consists of five interactive analytical dashboards.
 
 The project is based on a normalized ERP database designed specifically for analytical purposes.
 
-![Database Model](Images/Architecture.png)
+![Database Model](Images/Database_Mode.png)
 
 ---
 
