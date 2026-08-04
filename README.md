@@ -1,7 +1,11 @@
 <p align="center">
 
 # ERP Business Intelligence Solution
-
+![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 **End-to-End Business Intelligence Project**
 
 SQL • SQLite • Power BI • Power Query • Excel
@@ -18,6 +22,7 @@ An end-to-end Business Intelligence project that simulates a realistic ERP envir
 
 ## 📖 Project Highlights ⭐
 
+
 This project presents a complete Business Intelligence solution built around a realistic ERP environment.
 
 It demonstrates the full analytics workflow, including:
@@ -29,6 +34,39 @@ It demonstrates the full analytics workflow, including:
 - interactive dashboard development in Power BI
 
 The solution supports business decision-making by transforming ERP data into actionable insights.
+
+---
+
+## 📈 Project Statistics
+
+| Metric | Value |
+|---------|------:|
+| Dashboard Pages | 5 |
+| Visualizations | 32 |
+| Business KPIs | 16 |
+| SQL Queries | 63 |
+| Database Tables | 97 |
+| ERP Modules | 5 |
+| Years of Data | 3 |
+
+---
+
+## 🎓 Skills Demonstrated
+
+This project demonstrates practical experience in:
+
+- Relational database design
+- SQL querying and optimization
+- Data modeling
+- ETL and data transformation
+- Business Intelligence reporting
+- KPI development
+- Dashboard design
+- Financial analysis
+- Sales analytics
+- HR analytics
+- Business process analysis
+- Data visualization
 
 ---
 
@@ -150,6 +188,24 @@ The project is based on a normalized ERP database designed specifically for anal
 
 ---
 
+## 🏗 Solution Architecture
+
+![Architecture](Images/Architecture.png)
+
+---
+
+## 💡 Business Impact
+
+The dashboard enables decision-makers to:
+
+- Monitor business performance in real time
+- Analyze profitability and operational costs
+- Identify revenue trends and top-performing customers
+- Evaluate employee performance and labor costs
+- Improve operational efficiency through KPI monitoring
+
+---
+
 ## 📂 Repository Structure
 
 ```text
@@ -208,3 +264,14 @@ Data Analyst specializing in SQL, Power BI and ERP Analytics.
 ## 📄 License
 
 This repository was created for educational and portfolio purposes.
+
+## 🚀 Future Improvements
+
+Planned enhancements include:
+
+- Role-Level Security (RLS)
+- Incremental Data Refresh
+- Power BI Service deployment
+- Advanced DAX measures
+- Forecasting and predictive analytics
+- Drill-through pages
