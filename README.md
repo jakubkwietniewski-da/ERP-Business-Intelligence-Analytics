@@ -135,13 +135,13 @@ The solution consists of five interactive analytical dashboards.
 
 ## 💰 Revenue & Sales
 
-![Revenue](Images/Revenue.png)
+![Revenue](Images/Revenue_Sales.png)
 
 ---
 
 ## 💸 Costs & Purchases
 
-![Costs](Images/Costs.png)
+![Costs](Images/Costs_Purchases.png)
 
 ---
 
@@ -161,7 +161,7 @@ The solution consists of five interactive analytical dashboards.
 
 The project is based on a normalized ERP database designed specifically for analytical purposes.
 
-![Database Model](Images/Database_Model.png)
+![Database Model](Images/Architecture.png)
 
 ---
 
