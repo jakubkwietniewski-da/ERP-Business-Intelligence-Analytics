@@ -1,16 +1,16 @@
 <p align="center">
 
 # ERP Business Intelligence Solution
-![SQL](https://img.shields.io/badge/SQL-Advanced-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-ETL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Automation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-**End-to-End Business Intelligence Project**
 
-SQL • SQLite • Power BI • Power Query • Excel
+Professional End-to-End Business Intelligence Portfolio Project
 
-</p>
+**Tech Stack:** SQL • SQLite • Power BI • Power Query • Microsoft Excel
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -55,17 +55,24 @@ The solution supports business decision-making by transforming ERP data into act
 
 This project demonstrates practical experience in:
 
+### Data Engineering
 - Relational database design
-- SQL querying and optimization
 - Data modeling
 - ETL and data transformation
-- Business Intelligence reporting
+
+### Data Analysis
+- SQL querying and optimization
 - KPI development
-- Dashboard design
+- Business Intelligence reporting
+
+### Business Analytics
 - Financial analysis
 - Sales analytics
 - HR analytics
 - Business process analysis
+
+### Visualization
+- Dashboard design
 - Data visualization
 
 ---
@@ -256,10 +263,18 @@ ERP-Business-Intelligence-Solution/
 
 **Jakub Kwietniewski**
 
-Data Analyst specializing in SQL, Power BI and ERP Analytics.
+Aspiring Data Analyst with a background in accounting and business process optimization.
 
-- LinkedIn: *(add your profile)*
-- GitHub: *(add your profile)*
+**Core Skills**
+
+- SQL
+- Power BI
+- Python
+- Excel
+- ERP Analytics
+
+- LinkedIn: *(link)*
+- GitHub: *(link)*
 
 ## 📄 License
 
