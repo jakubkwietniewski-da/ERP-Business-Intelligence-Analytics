@@ -1,6 +1,6 @@
 <p align="center">
 
-# ERP Business Intelligence Solution
+# ERP Business Intelligence Analytics
 
 Professional End-to-End Business Intelligence Portfolio Project
 
