@@ -4,8 +4,6 @@
 
 Professional End-to-End Business Intelligence Portfolio Project
 
-**Tech Stack:** SQL • SQLite • Power BI • Power Query • Microsoft Excel
-
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -15,8 +13,6 @@ Professional End-to-End Business Intelligence Portfolio Project
 ---
 
 An end-to-end Business Intelligence project that simulates a realistic ERP environment by combining relational database design, SQL analytics and interactive Power BI dashboards.
-
-> **Tech Stack:** SQL • SQLite • Power BI • Power Query • Excel
 
 ---
 
