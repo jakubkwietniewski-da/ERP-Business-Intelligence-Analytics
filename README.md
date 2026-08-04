@@ -11,7 +11,6 @@ Professional End-to-End Business Intelligence Portfolio Project
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </p>
----
 
 An end-to-end Business Intelligence project that simulates a realistic ERP environment by combining relational database design, SQL analytics and interactive Power BI dashboards.
 
